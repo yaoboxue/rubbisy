@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rubbish_user/rubbish_user.iml" filepath="$PROJECT_DIR$/rubbish_user/rubbish_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rubbisy.iml" filepath="$PROJECT_DIR$/.idea/rubbisy.iml" />
+    </modules>
+  </component>
+</project>
